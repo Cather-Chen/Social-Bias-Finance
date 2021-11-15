@@ -1,0 +1,5 @@
+whoTarget
+intentYN
+sexYN
+offensiveYN
+speakerMinorityYN

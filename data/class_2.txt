@@ -1,0 +1,7 @@
+gender_target
+race_target
+culture_target
+social_target
+body_target
+victims_target
+disabled_target
